@@ -13,6 +13,13 @@ All experiements performed using Colab Pro with TPU/GPU and High-RAM configurati
 
 Total duration requried for entire code run and results using pre-processed MIMIC-III data: 40 hours  
 
+## Local setup requriments and dependencies
+Jupyter notebook
+
+Python 3.7
+
+Tensorflow v1
+
 ## Usage
 
 1. Clone the code to local.   
@@ -60,9 +67,9 @@ cd CS598_DL4H_Project_Team03_2022Spring
 
 ## References
 
-Paper reference: https://arxiv.org/pdf/2011.12349.pdf
+Original Paper reference: https://arxiv.org/pdf/2011.12349.pdf
 
-Original code reference:  https://github.com/tanlab/ConvolutionMedicalNer
+Original code repo:  https://github.com/tanlab/ConvolutionMedicalNer
 
 Download the MIMIC-III dataset via https://mimic.physionet.org/
 
