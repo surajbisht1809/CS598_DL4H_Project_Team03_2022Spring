@@ -5,8 +5,10 @@ Shubhendu Bhaskar - sb59@illinois.edu
 
 Suraj Bisht - surajb2@illinois.edu
 
+Documentation: Final report and video presentation available in documentation folder
+
 ## Implementation for Improving Clinical Outcome Predictions Using Convolution over Medical Entities with Multimodal Learning
-Original paper reference: https://arxiv.org/pdf/2011.12349.pdf
+Original paper reference: https://arxiv.org/pdf/2011.12349.pdf 
 
 ## Computational Requirements
 All experiements performed using Colab Pro with TPU/GPU and High-RAM configuration.
