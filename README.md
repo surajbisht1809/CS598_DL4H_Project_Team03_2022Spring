@@ -34,15 +34,15 @@ cd CS598_DL4H_Project_Team03_2022Spring
 2. Run MIMIC-Extract Pipeline as explained in https://github.com/MLforHealth/MIMIC_Extract.   
    Optionally download all_hourly_data.h5 from GCP at https://console.cloud.google.com/storage/browser/mimic_extract
    
-   Pre-requisite: physionet access and GCP account
+      Pre-requisite: physionet access and GCP account
 
 3. Copy the output file of MIMIC-Extract Pipeline named `all_hourly_data.h5` to `data` folder.
 
 4. Run `01-Extract-Timseries-Features_LoS.ipnyb` to extract first 24 hours timeseries features from MIMIC-Extract raw data.
    
-   Execution time: 10 mins
+      Execution time: 10 mins
    
-   Added los > 5 data points
+      Added los > 5 data points
    
    experimented data extraction for first 48 hours
 
@@ -70,15 +70,15 @@ cd CS598_DL4H_Project_Team03_2022Spring
 
 10. Run `05-Represent-Entities-With-Different-Embeddings_LoS.ipynb` to convert medical entities into word representations.
 
-   Execution time: 30 mins
+      Execution time: 30 mins
    
-   Output:  six dictionary files for Wrod2Vec, Fasttext and Combined
+      Output:  six dictionary files for Wrod2Vec, Fasttext and Combined
 
 11. Run `06-Create-Timeseries-Data_LoS.ipynb` to prepare the timeseries data to fed through GRU / LSTM.
 
-   Execution time: 30 mins
+      Execution time: 30 mins
    
-   Output:  Training, validation and test data and ids
+      Output:  Training, validation and test data and ids
 
 12. Run `07-Timeseries-Baseline_LoS.ipynb` to run timeseries baseline model to predict 4 different clinical tasks.
 
@@ -120,4 +120,3 @@ med7 implementation: https://github.com/kormilitzin/med7
 Download Pre-trained Word2Vec & FastText embeddings: https://github.com/kexinhuang12345/clinicalBERT
 
 Preprocessing Script: https://github.com/kaggarwal/ClinicalNotesICU
-
