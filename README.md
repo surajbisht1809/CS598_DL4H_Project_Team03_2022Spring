@@ -1,4 +1,4 @@
-# UIUC CS598_DL4H_Project_Team03_2022Spring
+# UIUC CS598 DL4H Final Project 2022
 
 ## Team 03
 Shubhendu Bhaskar - sb59@illinois.edu
@@ -119,7 +119,7 @@ Results files are available in ``/results`` folder, following are summarized res
 
 ![Alt text](/results/images/Baseline.png "Baseline Models")
 
-**Best Bestline vs Proposed Model**
+**Best Baseline vs Proposed Model**
 
 ![Alt text](/results/images/Proposed.png "Proposed Model")
 
