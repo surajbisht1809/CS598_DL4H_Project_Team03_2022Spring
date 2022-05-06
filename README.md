@@ -5,10 +5,18 @@ Shubhendu Bhaskar - sb59@illinois.edu
 
 Suraj Bisht - surajb2@illinois.edu
 
-Documentation: Final report and video presentation available in documentation folder
+Documentation: Final report and communication with original author is available in ``/documentation`` folder
+
+Video Presentation: https://youtu.be/Q7Fltwmcm-k
 
 ## Implementation for Improving Clinical Outcome Predictions Using Convolution over Medical Entities with Multimodal Learning
-Original paper reference: https://arxiv.org/pdf/2011.12349.pdf 
+Original paper reference: https://arxiv.org/pdf/2011.12349.pdf
+
+Original code repo:  https://github.com/tanlab/ConvolutionMedicalNer
+
+## Data
+Publicly available MIMIC-III dataset used for all the experiments: https://physionet.org/content/mimiciii/1.4/ 
+
 
 ## Computational Requirements
 All experiements performed using Colab Pro with TPU/GPU and High-RAM configuration.
@@ -104,6 +112,16 @@ cd CS598_DL4H_Project_Team03_2022Spring
     
     Hyperparameters: hidden unites:128 and 256 epochs:10, model patience:5, Iteration:10
 
+## Results
+Results files are available in ``/results`` folder, following are summarized result tables
+
+**Baseline vs Baseline with MultiModal**
+
+![Alt text](/results/images/Baseline.png "Baseline Models")
+
+**Best Bestline vs Proposed Model**
+
+![Alt text](/results/images/Proposed.png "Proposed Model")
 
 ## References
 
