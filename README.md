@@ -9,7 +9,7 @@ Documentation: Final report and communication with original author is available 
 
 Video Presentation: https://youtu.be/Q7Fltwmcm-k
 
-## Implementation for Improving Clinical Outcome Predictions Using Convolution over Medical Entities with Multimodal Learning
+## Reimplementation for paper *"Improving Clinical Outcome Predictions Using Convolution over Medical Entities with Multimodal Learning"*
 Original paper reference: https://arxiv.org/pdf/2011.12349.pdf
 
 Original code repo:  https://github.com/tanlab/ConvolutionMedicalNer
