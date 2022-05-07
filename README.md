@@ -12,6 +12,9 @@ Video Presentation: https://youtu.be/Q7Fltwmcm-k
 ## Reimplementation for paper *"Improving Clinical Outcome Predictions Using Convolution over Medical Entities with Multimodal Learning"*
 Original paper reference: https://arxiv.org/pdf/2011.12349.pdf
 
+      Batuhan Bardak and Mehmet Tan. 2021. Improving clinical outcome predictions using convolution over 
+      medical entities with multimodal learning. *Artificial Intelligence in Medicine*, 117:102112.  
+
 Original code repo:  https://github.com/tanlab/ConvolutionMedicalNer
 
 ## Data
@@ -74,7 +77,7 @@ cd CS598_DL4H_Project_Team03_2022Spring
    
    Output:  ner_df
 
-9. Download pretrained embeddings into `embeddings` folder via link in given References section.
+9. Download pretrained Word2Vec & FastText embeddings into `embeddings` folder: https://github.com/kexinhuang12345/clinicalBERT
 
 10. Run `05-Represent-Entities-With-Different-Embeddings_LoS.ipynb` to convert medical entities into word representations.
 
