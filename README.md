@@ -10,15 +10,15 @@ Documentation: Final report and communication with original author is available 
 Video Presentation: https://youtu.be/Q7Fltwmcm-k
 
 ## Reimplementation for paper *"Improving Clinical Outcome Predictions Using Convolution over Medical Entities with Multimodal Learning"*
-Original paper reference: https://arxiv.org/pdf/2011.12349.pdf
+**Original paper reference:** https://arxiv.org/pdf/2011.12349.pdf
 
       Batuhan Bardak and Mehmet Tan. 2021. Improving clinical outcome predictions using convolution over 
       medical entities with multimodal learning. Artificial Intelligence in Medicine, 117:102112.  
 
-Original code repo:  https://github.com/tanlab/ConvolutionMedicalNer
+**Original code repo:**  https://github.com/tanlab/ConvolutionMedicalNer
 
 ## Data
-Publicly available MIMIC-III dataset used for all the experiments: https://physionet.org/content/mimiciii/1.4/ 
+Publicly available **MIMIC-III** dataset used for all the experiments: https://physionet.org/content/mimiciii/1.4/ 
 
 
 ## Computational Requirements
