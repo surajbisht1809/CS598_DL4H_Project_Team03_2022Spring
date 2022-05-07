@@ -13,7 +13,7 @@ Video Presentation: https://youtu.be/Q7Fltwmcm-k
 Original paper reference: https://arxiv.org/pdf/2011.12349.pdf
 
       Batuhan Bardak and Mehmet Tan. 2021. Improving clinical outcome predictions using convolution over 
-      medical entities with multimodal learning. *Artificial Intelligence in Medicine*, 117:102112.  
+      medical entities with multimodal learning. Artificial Intelligence in Medicine, 117:102112.  
 
 Original code repo:  https://github.com/tanlab/ConvolutionMedicalNer
 
