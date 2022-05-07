@@ -21,9 +21,9 @@ Publicly available MIMIC-III dataset used for all the experiments: https://physi
 ## Computational Requirements
 All experiements performed using Colab Pro with TPU/GPU and High-RAM configuration.
 
-Total duration requried for entire code run and results using pre-processed MIMIC-III data: 40 hours
+Total duration requried for entire code run and results using pre-processed MIMIC-III data: **40 GPU hours**
 
-Total duration with all the experments and ablations: 150 hours
+Total duration including all the additional experments and ablations: **150 GPU hours**
 
 ## Local setup requriments and dependencies
 Jupyter notebook
